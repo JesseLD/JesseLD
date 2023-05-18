@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="400em" src="https://avatars.githubusercontent.com/u/82299456?v=4">
+  <img height="400em" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/82299456?v=4">
 </div>
 
 
