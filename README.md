@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div>
   <!--![JesseLD's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesseLD&hide=contribs,prs)-->
   <img src="https://github-readme-stats.vercel.app/api?username=JesseLD&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseLD&layout=compact&langs_count=3"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseLD&layout=compact&langs_count=3&theme=tokyonight"/>
 
   
   
