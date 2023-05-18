@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 🌱 Estudando Typescript, NodeJs, React e C#
 -
 <div>
-  ![JesseLD's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesseLD&hide=contribs,prs)
-  <img src="https://github-readme-stats.vercel.app/api?username=JesseLD&hide=contribs,prs">
+  <!--![JesseLD's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesseLD&hide=contribs,prs)-->
+  <img src="https://github-readme-stats.vercel.app/api?username=JesseLD&hide=contribs,prs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs"/>
   
 <div/>
