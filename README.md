@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="400em src="https://github.com/JesseLD.png">
-<div>
+  <img height="400em src="https://avatars.githubusercontent.com/u/82299456?v=4">
+</div>
 
 
 
