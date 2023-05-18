@@ -38,6 +38,6 @@ Here are some ideas to get you started:
  <a href = "mailto:jesseluis118@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jess%C3%A9-oliveira-a1488416a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
