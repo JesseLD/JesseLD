@@ -1,5 +1,5 @@
 ### Oi, Eu sou Jessé Oliveira! 👋
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D83B7D&height=120&section=header"/>
 <!--
 **JesseLD/JesseLD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
