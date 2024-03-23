@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="400em" src="https://cdn.discordapp.com/attachments/1108807347993854015/1108807384895324310/ROUNDED_LOGO.png">
+  <img height="400em" src="https://res.cloudinary.com/dlusqio3l/image/upload/v1711199987/ROUNDED_LOGO_bvyxiu.png">
 </div>                                                         
                                                          
 
