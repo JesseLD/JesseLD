@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="400em"  src="https://res.cloudinary.com/dlusqio3l/image/upload/fl_preserve_transparency/v1744823971/me_jrb7hw.jpg">
+  <img width="400em"  src="https://res.cloudinary.com/dlusqio3l/image/upload/fl_preserve_transparency/v1744823971/me_jrb7hw.jpg">
 </div>                                                         
                                                          
 
